@@ -1,0 +1,6 @@
+{
+    "name": "visualn/example",
+    "type": "drupal-custom-component",
+    "minimum-stability": "dev",
+    "require": {}
+}
